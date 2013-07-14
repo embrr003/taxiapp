@@ -16,6 +16,5 @@ var taxiFare = function (milesTraveled, pickupTime) {
   return cost;
 };
 
-// use taxiFare to set tripCost to the cost of your 
-// ride covering 5 miles at 2 am in the morning
+
 var tripCost;
